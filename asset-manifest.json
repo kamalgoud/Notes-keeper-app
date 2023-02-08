@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/kamalgoud/Notes-keeper-app/static/js/main.991c61da.js",
-    "index.html": "/kamalgoud/Notes-keeper-app/index.html",
-    "main.991c61da.js.map": "/kamalgoud/Notes-keeper-app/static/js/main.991c61da.js.map"
+    "main.js": "/Notes-keeper-app/static/js/main.991c61da.js",
+    "index.html": "/Notes-keeper-app/index.html",
+    "main.991c61da.js.map": "/Notes-keeper-app/static/js/main.991c61da.js.map"
   },
   "entrypoints": [
     "static/js/main.991c61da.js"
